@@ -6,7 +6,7 @@
 </h1>
 </br>
 
-<h3 align="center">You can access the project <a href="https://singleplayer.vercel.app/" target="_blank">Clicking here</a></h3>
+<h3 align="center">You can access the project <a href="https://bikcraftstore.vercel.app/" target="_blank">Clicking here</a></h3>
 </br>
 
 ---
@@ -17,7 +17,7 @@
 </br>
 
 
-<h3>Singleplayer is a news site about the world of games and its competitive.</h3>
+<h3>Bikcraft is an e-commerce of handmade bicycles.</h3>
 
 </br>
 
