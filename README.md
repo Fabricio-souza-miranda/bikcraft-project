@@ -1,5 +1,5 @@
 <h1 align= "center">
-            <img src="./img/logo/logo.png" alt="" width="400">
+            <img src="./img/bikcraft.svg" alt="" width="300">
 </h1>
 <h1 align= "center">
             <img src="./readme/img01.jpg" alt="" width="1500">
